@@ -2,8 +2,7 @@
 
 ## 📌 About
 This is a console-based Hotel Management System written in C.  
-The program allows users to manage hotel operations such as room booking, customer details, and billing using a menu-driven interface.
-
+The program allows users to manage hotel operations such as room booking, customer details.
 This project is designed for learning basic programming concepts like structures, functions, and file handling in C.
 
 ---
